@@ -1,11 +1,11 @@
 {
-    "name": "flutter_bloc_app_template",
-    "short_name": "flutter_bloc_app_template",
+    "name": "Flutter BLoC Template",
+    "short_name": "BLoC Template",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A lean Flutter BLoC app template.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
